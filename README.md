@@ -2,7 +2,7 @@
 
 Governed email and calendar for AI agents, exposed as a [Model Context Protocol](https://modelcontextprotocol.io) server.
 
-Oryah Mail gives an AI agent a real mailbox with guardrails: per-mailbox permissions, a send allowlist, scoped API keys, and a full audit log. Connect Gmail, Outlook, or IMAP accounts once, then let the agent read, search, draft, send, and manage calendar events through 29 MCP tools.
+Oryah Mail gives an AI agent a real mailbox with guardrails: per-mailbox permissions, a send allowlist, scoped API keys, and a full audit log. Connect Gmail, Outlook, or IMAP accounts once, then let the agent read, search, draft, send, and manage calendar events through 30 MCP tools.
 
 **Endpoint:** `https://mail-mcp.infinihash.com/mcp` (Streamable HTTP)
 
