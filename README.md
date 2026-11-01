@@ -50,3 +50,13 @@ Add the remote server in your MCP client:
 ## Registry
 
 Published to the [official MCP registry](https://registry.modelcontextprotocol.io) as `io.github.Infinihash/oryah-mail-mcp` via `mcp-publisher` from `server.json` in this repo.
+
+## Governance: the agent that runs the marketing
+
+An AI agent runs this product's marketing under a written charter, and the governing documents are published here:
+
+- [CHARTER.md](CHARTER.md): what the agent may do, what it may never do, and the kill switch.
+- [PLAYBOOK.md](PLAYBOOK.md): the rotation, the channels, and the rules that came out of results.
+- [REFUSAL-LOG.md](REFUSAL-LOG.md): dated entries for what the agent refused, what platforms blocked, and what changed as a result.
+
+Client manifests for Claude, Cursor, and the Gemini CLI live in this repo (`.mcp.json`, `cursor-plugin/`, `gemini-extension.json`), with agent-facing install steps in [llms-install.md](llms-install.md).
